@@ -332,7 +332,7 @@
 
     <string name="connectionWizard_welcome_titleMessage">Welcome to wallabag.</string>
     <string name="connectionWizard_welcome_text">Set up a connection using the wizard first.</string>
-    <string name="connectionWizard_welcome_rerunNotice">Re-run the connection wizard from \"Settings\" at any time.</string>
+    <string name="connectionWizard_welcome_rerunNotice">(Re-run the connection wizard from \"Settings\" at any time.)</string>
     <string name="connectionWizard_welcome_prev">Skip</string>
     <string name="connectionWizard_welcome_next">Next</string>
 
