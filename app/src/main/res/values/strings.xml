@@ -68,7 +68,7 @@
     <string name="d_testConnection_urlSuggestion_acceptButton">Use suggested</string>
     <string name="d_testConnection_urlSuggestion_declineButton">Use mine</string>
     <string name="d_testConnection_urlSuggestion_cancelButton">Cancel</string>
-    <string name="d_testConnection_urlSuggestion_message">Change the URL to "%s" is recommended, or you can use the prefilled one.</string>
+    <string name="d_testConnection_urlSuggestion_message">Changing the URL to "%s" is recommended, or you can use the prefilled one.</string>
     <string name="d_testConnection_urlSuggestion_message_mandatory">It is suggested to change URL to: "%s"</string>
     <string name="d_testConnection_fail_title">Connection test failed</string>
     <string name="getCredentials_progressDialogMessage">Getting API credentials…</string>
