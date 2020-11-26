@@ -100,7 +100,7 @@
     <string name="themeName_dark_contrast">Dark (high contrast)</string>
     <string name="themeName_solarized">Solarized</string>
     <string name="menu_readArticle_increaseFontSize">Bigger fonts</string>
-    <string name="menu_readArticle_decreaseFontSize">Smalller fonts</string>
+    <string name="menu_readArticle_decreaseFontSize">Smaller fonts</string>
     <string name="aboutText"><b>wallabag for Android</b>\n
         Don't miss content. Click, extract, save to a server and read it at your leisure. Self-hostable copylefted libre software.</string>
     <string name="readSpeed">Read speed</string>
