@@ -102,7 +102,7 @@
     <string name="menu_readArticle_increaseFontSize">Bigger fonts</string>
     <string name="menu_readArticle_decreaseFontSize">Smaller fonts</string>
     <string name="aboutText"><b>wallabag for Android</b>\n
-        Don't miss content. Click, extract, save to a server and read it at your leisure. Self-hostable copylefted libre software.</string>
+        Don\'t miss content. Click, extract, save to a server and read it at your leisure. Self-hostable copylefted libre software.</string>
     <string name="readSpeed">Read speed</string>
     <string name="voiceHeight">Voice pitch</string>
     <string name="readVolume">Read volume</string>
