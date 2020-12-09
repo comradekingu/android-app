@@ -46,7 +46,7 @@
     <string name="d_add_fail_title">Fail</string>
     <string name="d_add_fail_text">Couldn\'t find a URL in share string:\n</string>
     <string name="d_configurationChanged_title">Parameters changed</string>
-    <string name="d_configurationChanged_message">Test the connection to pick up new changes.</string>
+    <string name="d_configurationChanged_message">Test the connection to check if the new changes work.</string>
     <string name="d_configurationChanged_answer_decline">Not now</string>
     <string name="d_configurationIsQuestionable_title">Problem detected</string>
     <string name="d_configurationIsQuestionable_message">Retry the connection to see if it works now.</string>
