@@ -215,7 +215,7 @@
         <item>Break lines (pre-wrap)</item>
     </string-array>
     <string name="pref_name_ui_showArticleAddedDialog">Show a dialog when bagging</string>
-    <string name="pref_desc_ui_showArticleAddedDialog">Shows a dialog allowing favoriting/archiving/tagging a newly added article (instead of a toast message).</string>
+    <string name="pref_desc_ui_showArticleAddedDialog">Shows a dialog allowing favoriting/archiving/tagging a newly added article (instead of a message).</string>
     <string name="pref_name_ui_article_fullscreen">Fullscreen Articles</string>
     <string name="pref_desc_ui_article_fullscreen">Hides system and app bars when reading articles</string>
     <string name="pref_name_ui_onyxworkaround_enabled">Onyx Boox theme workaround</string>
